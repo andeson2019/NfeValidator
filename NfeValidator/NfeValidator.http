@@ -1,0 +1,5 @@
+@NfeValidator_HostAddress = http://localhost:5052
+
+POST {{NfeValidator_HostAddress}}/api/v1/documentos
+Accept: application/json
+
