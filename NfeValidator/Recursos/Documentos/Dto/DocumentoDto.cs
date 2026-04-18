@@ -1,4 +1,4 @@
-﻿namespace NfeValidator.Domain.Documento.Dto;
+﻿namespace NfeValidator.Recursos.Documentos.Dto;
 
 public class DocumentoDto
 {

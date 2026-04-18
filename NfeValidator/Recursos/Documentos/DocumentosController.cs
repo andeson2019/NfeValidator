@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using NfeValidator.Domain.Documento.Dto;
-using NfeValidator.Domain.Documento.Service;
+using NfeValidator.Recursos.Documentos.Dto;
+using NfeValidator.Recursos.Documentos.Service;
 
-namespace NfeValidator.Domain.Documento;
+namespace NfeValidator.Recursos.Documentos;
 
 [ApiController]
 [Route("/api/v1/[controller]")]

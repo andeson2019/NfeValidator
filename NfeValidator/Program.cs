@@ -1,7 +1,7 @@
 using FluentValidation;
-using NfeValidator.Domain.Documento.Dto;
-using NfeValidator.Domain.Documento.Service;
-using NfeValidator.Domain.Documento.Validators;
+using NfeValidator.Recursos.Documentos.Dto;
+using NfeValidator.Recursos.Documentos.Service;
+using NfeValidator.Recursos.Documentos.Validators;
 using WebApplication = Microsoft.AspNetCore.Builder.WebApplication;
 
 var builder = WebApplication.CreateBuilder(args);

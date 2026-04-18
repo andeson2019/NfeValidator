@@ -1,6 +1,6 @@
-﻿using NfeValidator.Domain.Documento.Dto;
+﻿using NfeValidator.Recursos.Documentos.Dto;
 
-namespace NfeValidator.Domain.Documento.Service;
+namespace NfeValidator.Recursos.Documentos.Service;
 
 public interface IDocumentoService
 {

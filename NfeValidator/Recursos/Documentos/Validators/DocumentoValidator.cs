@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
-using NfeValidator.Domain.Documento.Dto;
+using NfeValidator.Recursos.Documentos.Dto;
 
-namespace NfeValidator.Domain.Documento.Validators;
+namespace NfeValidator.Recursos.Documentos.Validators;
 
 public class DocumentoValidator : AbstractValidator<DocumentoDto>
 {

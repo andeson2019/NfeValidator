@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
-using NfeValidator.Domain.Documento.Dto;
+using NfeValidator.Recursos.Documentos.Dto;
 
-namespace NfeValidator.Domain.Documento.Service;
+namespace NfeValidator.Recursos.Documentos.Service;
 
 public class DocumentoService(IValidator<LoteEntradaDto> validator) : IDocumentoService
 {
