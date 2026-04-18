@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AIValidator_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fdb6edd8bce6af26cfa378ba0cc1c5ec76bbd4a05f242b76bd21db74a91384_003FIValidator_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17c2ce7a_002D557a_002D4b83_002Dbdd2_002D1624ee2cdac3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Deve_Lancar_Erro_Quando_Tipo_Invalido" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::540A2D06-0D8E-4DB6-AA19-62105E7F7C96::net10.0::NfeValidatorTest.Documentos.DocumentoValidatorTests.Deve_Haver_Erro_Quando_DataEmissao_For_Valor_Padrao&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::540A2D06-0D8E-4DB6-AA19-62105E7F7C96::net10.0::NfeValidatorTest.Documentos.DocumentoValidatorTests.Deve_Passar_Quando_DataEmissao_For_Valida&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::540A2D06-0D8E-4DB6-AA19-62105E7F7C96::net10.0::NfeValidatorTest.Documentos.DocumentoValidatorTests.Deve_Haver_Erro_Quando_Numero_For_Vazio&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::540A2D06-0D8E-4DB6-AA19-62105E7F7C96::net10.0::NfeValidatorTest.Documentos.LoteEntradaValidatorTests.Deve_Haver_Erro_Quando_Houver_Duplicidade_No_Lote&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::540A2D06-0D8E-4DB6-AA19-62105E7F7C96::net10.0::NfeValidatorTest.Documentos.DocumentoServiceTests.ProcessarLoteAsync_Deve_Retornar_Relatorio_Correto&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

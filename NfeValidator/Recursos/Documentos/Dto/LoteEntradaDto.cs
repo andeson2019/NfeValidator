@@ -2,6 +2,6 @@
 
 public class LoteEntradaDto
 {
-    public string LoteId { get; set; }
-    public List<DocumentoDto> Documentos { get; set; }
+    public string? LoteId { get; set; }
+    public List<DocumentoDto>? Documentos { get; set; }
 }
