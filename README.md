@@ -1,6 +1,6 @@
 # NfeValidator API (.NET 10)
 
-Esta é uma API para validação de lotes de documentos fiscais, desenvolvida com **.NET 10**, como desafio técnico no 
+Esta é uma API para validação de lotes de documentos fiscais desenvolvida com **.NET 10** para um desafio técnico no 
 processo de seleção para vaga de **Senior Software Engineer** na **InvoiSys Sistemas**. A aplicação processa lotes de documentos, realiza verificações de integridade e duplicidade, e retorna um relatório detalhado de status.
 
 As decisões técnicas para implementação desse projeto foram pautadas pela escalabilidade, testabilidade, desacoplamento (fazendo uso de injeção de dependências) e em boas práticas de arquitetura de projetos (feature by package) e do ecossistema .Net. 
