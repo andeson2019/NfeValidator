@@ -25,10 +25,10 @@ public class DocumentoService(IValidator<LoteEntradaDto> validator) : IDocumento
         FluentValidation.Results.ValidationResult resultado)
     {
         var prefixo = $"Documentos[{index}]";
-        var errosDoDoc = resultado.Errors
-            .Where(e => e.PropertyName.StartsWith(prefixo) || e.PropertyName == "")
+        var errosDoDoc = resultado?.Errors?
+            .Where(e => e.PropertyName.StartsWith(prefixo, StringComparison.OrdinalIgnoreCase))
             .Select(e => e.ErrorMessage)
-            .ToList();
+            .ToList() ?? [];
 
         return new DocumentoRespostaDto(){Id= doc.Id, Status = errosDoDoc.Count != 0 ? "INVALIDO" : "VALIDO", Erros = errosDoDoc};
     }
